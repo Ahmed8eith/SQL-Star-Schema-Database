@@ -5,7 +5,7 @@ Models waste collection trips using a star schema with trucks, stations, and dat
 
 ## Database Diagram
 
-![Database Diagram](Data Warhouse Diagram.png)
+![Database Diagram](Diagram.png)
 
 ## Tables
 
